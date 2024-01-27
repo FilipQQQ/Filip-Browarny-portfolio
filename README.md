@@ -34,4 +34,4 @@ If you want to explore any specific project in detail, follow the steps below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/FilipQQQ/Filip-Browarny-portfolio.git

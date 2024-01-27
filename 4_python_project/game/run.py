@@ -1,4 +1,3 @@
-# dorobic testow
 import pygame
 import sys
 from logic import Logic

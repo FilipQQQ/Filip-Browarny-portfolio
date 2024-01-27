@@ -2,6 +2,7 @@
 
 This repository serves as a showcase for my personal portfolio.
 Projects are in reverse chronological order.
+Some of them have youtube video showcasing the functionality of the project.
 
 ## Project 1: 1_Evolutionary_algorithm
 
@@ -26,6 +27,7 @@ Projects are in reverse chronological order.
 - **Date:** December 2021
 - **Description:** Simpler version of Frogger game in Python
 - **Technologies Used:** Python, PyGame
+- **Video:** https://www.youtube.com/watch?v=-NKny5JrHCM
 
 ## Getting Started
 

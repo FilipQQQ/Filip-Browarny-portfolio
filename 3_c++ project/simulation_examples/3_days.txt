@@ -1,0 +1,402 @@
+
+Simulation starting
+-------------------------------------------------
+
+How long do you want the simulation to take? Type 1, 3, 6, 9 for number of days
+Your choice: 
+TODAY DATE: 01.05.2022
+
+Wiwiana JANIK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Niecisław ZAJĄC buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ludolf KAŹMIERCZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Danisław LIS buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Aldona KACZMAREK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ginter KAŹMIERCZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Gustawa ZIÓŁKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Kwiatosław LASKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Celestia GRABOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Eliasz MICHALSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Jaromir BARANOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Salomon CHMIELEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Roma KUBIAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Seweryna DUDEK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Idzia WÓJCIK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Żaneta MICHALSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Olimpia LEWANDOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Paula MACIEJEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Olena WYSOCKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Rodzisława MAJEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Makryn SAWICKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Hilary WÓJCIK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Witołd GÓRECKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Roman OLSZEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ota WITKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Augustyna KOZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Błażena SIKORSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Achilles SZCZEPAŃSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Betina PIOTROWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ciechosław MACIEJEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Karola WITKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Żywisława MRÓZ buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Maksymilian WASILEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Kochan MICHALAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Sława SZYMCZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Albin WITKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Witosława KACZMARCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Myślimir PRZYBYLSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Milena SZYMCZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Paulina LEWANDOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Wioletta STĘPIEŃ buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Julisława WASILEWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Leo BARANOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Seweryn TOMASZEWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dżamila WRÓBLEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Antoni KONIECZNY buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Herbert WITKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Hermes OSTROWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Julian MARCINIAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Lenart LASKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Leonora ADAMSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Gardomir JAWORSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ramona NOWAKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Aleksandra KOZŁOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Józef NOWAKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Felicjan SZYMAŃSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Żanna KRUPA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Blanka GÓRSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Floriana TOMASZEWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Juliana WASILEWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ildefons KACZMAREK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dal MICHALAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Celestyna ZIELIŃSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Klaudia MICHALSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Makary SZULC buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Błażena PIOTROWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Longin KUCHARSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+August SOKOŁOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Feliksa MALINOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Bożan WIECZOREK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Urban WRÓBEL buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Barnim BŁASZCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ofelia PAWŁOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Żelisław WIŚNIEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Malachiasz WRÓBLEWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Gardomir MICHALSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Lesław NOWICKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Zenofia KACZMAREK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Anastazy KRAWCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Agnieszka SOKOŁOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Odeta BŁASZCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Grażyna WYSOCKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Gizela ZIELIŃSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Zenofia WYSOCKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dżan JABŁOŃSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Celestia ZIÓŁKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Mojmira ZAWADZKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Leonora BŁASZCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Mirołada WILK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Leszek BARAN buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Anita SZYMAŃSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Flora KOZŁOWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Adria BORKOWSKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Lea PRZYBYLSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Sara MAKOWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Krzysztof WYSOCKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Tessa BARAN buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Zygmunta WIŚNIEWSKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Herbert WALCZAK buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Rozamunda JABŁOŃSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Gwidona JAWORSKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Kalina BĄK buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Gniewomir KRAJEWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Gościsław MARCINIAK buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Gertruda KUCHARSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Roland SZULC buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Przemysław JANKOWSKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Zdzisław SIKORSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+
+
+Paulina LEWANDOWSKI changed from second class to first class.
+Leszek BARAN changed from second class to first class.
+
+
+
+Flights this day: 
+Plane FR123 took of from Wroclaw to Warszawa
+Capacity: 89 / 90
+Base price of this flight: 305,00 zl
+First Class price of this flight: 381,25 zl
+
+Workers on this flight:
+Stweardesses: Eunika SIKORSKA, Leo BARANOWSKI, Hubert KOŁODZIEJ, Wrocisław NOWAK, 
+Luggage men: Wit PAWŁOWSKI, 
+Pilots: Linda BŁASZCZYK, 
+Other: 
+
+Plane DA123 took of from Gdansk to Warszawa
+Capacity: 19 / 20
+Base price of this flight: 278,00 zl
+First Class price of this flight: 347,50 zl
+
+Workers on this flight:
+Stweardesses: Hipolit MARCINIAK, 
+Luggage men: 
+Pilots: Bożenna SZYMCZAK, Lenart PRZYBYLSKA, 
+Other: 
+
+
+------------- END OF THE DAY ---------------
+
+TODAY DATE: 02.05.2022
+
+Izajasz GÓRECKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Albertyna URBAŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Cezaria GRABOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Idzia SZYMCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Mieczysława SADOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ludolf KWIATKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Pabiana WITKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Andrea KRAWCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Izaura WITKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Natasza KOZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Baldwin KACZMAREK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Grzymisław BŁASZCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Leoncja ZAWADZKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Hilaria WYSOCKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Cecyl STĘPIEŃ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Miłosława KUCHARSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Iryda KALINOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wilhelmina KONIECZNY buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Żaneta PRZYBYLSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Cezary WIECZOREK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Chwalibóg KOWALCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Estella JANKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Symeon CZARNECKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Żelisława KWIATKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gerarda KUBIAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Fera BARANOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dagmara JANKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Renat MARCINIAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Rudolf KANIA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Tomasz ADAMCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Witosław PAWLAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Chociemir JABŁOŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Kanimir DUDEK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Rudolfina MRÓZ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Budzisław BORKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+January ZIELIŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Jeremiasz JAKUBOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Bonawentura LEWANDOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Hermes SZEWCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Izolda BORKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Klaudia KAMIŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Angelika SOKOŁOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Zygbert CZARNECKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wacława WITKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gloria KUCHARSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Macieja KRUPA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Olena JAWORSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Tristan DĄBROWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Jolanta SZCZEPAŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Mirołada KANIA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ilga OSTROWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Alojza KAŹMIERCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Alojza JASIŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gwalbert TOMASZEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Larisa RUTKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Lubosław KANIA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Amira LASKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Lubomira KRUPA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Elmira BARAN buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Kastor BŁASZCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Borysław SOKOŁOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wrocisława WITKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Teofil KWIATKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ksawera GRABOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wawrzyniec JANKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Arlena WITKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Eunika SIKORSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Jarosław WYSOCKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Hermina JABŁOŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Andrea MAZUR buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Damazy MARCINIAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Tulimierz SZYMAŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gniewosz JAWORSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Antonia LEWANDOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Duszan KOWALSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Danisława KONIECZNY buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Otniel DUDA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Sław PRZYBYLSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Odeta LIS buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Sław DĄBROWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wit PAWŁOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Amira ZAJĄC buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Bożenna SZYMCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Stojan KUCHARSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Koryna BARANOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Zachariasz MAZUR buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Fabiana WALCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Olaf WRÓBEL buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Jacek KRAWCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Idzisława NOWAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Konstanty GRABOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gotard JAWORSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Berenika KOZŁOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Lola MICHALSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Orian MRÓZ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Herakliusz SADOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Luborada KOZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Boguchwała ZIÓŁKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Łukasz PIOTROWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Pamela SADOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Żytomir JANKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Honoriusz BŁASZCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Mirella WALCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gotszalk STĘPIEŃ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Semira KALINOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Tulimir OLSZEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Otto SZCZEPAŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Bojana ZIELIŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Marcela KOŁODZIEJ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Joachima KACZMARCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Urban PAWŁOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Zdzisław PIETRZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Julian NOWAKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Tyberiusz ZALEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Idzia MICHALAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Alfreda JAWORSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Aurelian SZYMCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dal DUDEK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Bromira ADAMCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wiktoryna KACZMARCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Klaudiusz WŁODARCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ulana SZYMCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Miłosława MAJEWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Asteria WOJCIECHOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Nikoleta RUTKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Izabella MAKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wilgofarta BORKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Honoriusz MARCINIAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dżemil NOWAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Rita JAKUBOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Świętopełk GÓRSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Irma PAWŁOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Teofil STĘPIEŃ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Rajmund KOZŁOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Anzelma WYSOCKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ezaw MICHALAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Nasif WYSOCKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Sulibor KWIATKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Faustyna ZIELIŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Julianda MICHALAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Urszula WRÓBEL buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dyzma TOMASZEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ilza WÓJCIK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Mateusz WRÓBLEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Artur NOWAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Anioł URBAŃSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Sebastiana BARAN buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ludwika OLSZEWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Aldona ZIELIŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Daniela SZYMCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Hestia KRÓL buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Felicja WYSOCKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Gualfard KAMIŃSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Longin ZALEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Skałosz LIS buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Hildegarda WALCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Lucjola MAKOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Salomon KOZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Berta NOWAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Ciechosław WRÓBLEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Serafina KUCHARSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Grzegorz BARAN buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Żarek CHMIELEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Korneliusz MAZUR buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dal KRUPA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Amanda KACZMAREK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Karola SAWICKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dorian MALINOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Fryc PAWŁOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Honoriusz SIKORSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Rozalia SOBCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Julia LEWANDOWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Latifa LIS buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Arnolda STĘPIEŃ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Nikolina MACIEJEWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dominik ZAJĄC buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Brajan STĘPIEŃ buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Aleksa BORKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Jaropełk ZAJĄC buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Radomiła MAKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Zosia SZCZEPANIAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Oksana BĄK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wilhelm NOWICKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Alina SOBCZAK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Szarlota JANIK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Godzisław SADOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Marin WRÓBLEWSKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Dąbrówka KACZMARCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Józefina BŁASZCZYK buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Maryla SOKOŁOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Maksyma RUTKOWSKA buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+Wawrzyniec GŁOWACKI buys ticket for flight with id: 3 from Wroclaw to Barcelona.
+
+
+Izaura WITKOWSKA changed from second class to first class.
+
+
+
+Flights this day: 
+Plane FD123 took of from Wroclaw to Barcelona
+Capacity: 192 / 200
+Base price of this flight: 1500,00 zl
+First Class price of this flight: 1875,00 zl
+
+Workers on this flight:
+Stweardesses: Ernesta CHMIELEWSKI, Mamert URBAŃSKI, 
+Luggage men: Noemi ZIELIŃSKI, 
+Pilots: Dacjusz SIKORA, 
+Other: Ładysław LIS, 
+
+
+------------- END OF THE DAY ---------------
+
+TODAY DATE: 03.05.2022
+
+Agata MICHALAK buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Hermina WITKOWSKA buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Brygida NOWICKI buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Ludolfa KACZMAREK buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Felicjana WASILEWSKA buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Lea WIECZOREK buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Ładysław LIS buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Polmira WOJCIECHOWSKA buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Ludomił MAZUR buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Jasława SZYMCZAK buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Faustyna WALCZAK buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Dżemil MAZUR buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Wawrzyniec KANIA buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Damroka MICHALSKI buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Łucja WOJCIECHOWSKA buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+Martyna ZAJĄC buys ticket for flight with id: 4 from Wroclaw to Mediolan.
+
+
+Dżemil MAZUR changed from second class to first class.
+
+
+
+Flights this day: 
+Plane AS123 took of from Wroclaw to Mediolan
+Capacity: 16 / 60
+Base price of this flight: 834,00 zl
+First Class price of this flight: 1042,50 zl
+
+Workers on this flight:
+Stweardesses: Miłowita KRÓL, Gerarda KUBIAK, 
+Luggage men: Wawrzyniec KANIA, Macieja KRUPA, 
+Pilots: Dargomir STĘPIEŃ, 
+Other: 
+
+
+------------- END OF THE DAY ---------------

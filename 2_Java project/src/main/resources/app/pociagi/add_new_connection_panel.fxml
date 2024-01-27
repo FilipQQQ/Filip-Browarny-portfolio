@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<?import app.pociagi.utils.AutoCompleteTextField?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.pociagi.controllers.AddNewConnectionPanel">
+   <children>
+      <ListView fx:id="allStationsListView" layoutX="119.0" layoutY="19.0" prefHeight="362.0" prefWidth="269.0" />
+      <Button fx:id="addConnectionButton" layoutX="527.0" layoutY="333.0" mnemonicParsing="false" onAction="#addConnectionButtonPushed" prefHeight="59.0" prefWidth="57.0" style="-fx-background-color: #0096FF;" text="CREATE" textFill="WHITE" />
+      <TextField fx:id="timeArrivalTextField" layoutX="420.0" layoutY="225.0" promptText="TIME ARRIVAL" />
+      <TextField fx:id="timeDepartureTextField" layoutX="420.0" layoutY="263.0" promptText="TIME DEPARTURE" />
+      <Button fx:id="addStopButton" layoutX="543.0" layoutY="298.0" mnemonicParsing="false" onAction="#addStopButtonPushed" style="-fx-background-color: #0096FF;" text="+" textFill="WHITE" />
+      <Button fx:id="deleteStopButton" layoutX="510.0" layoutY="298.0" mnemonicParsing="false" onAction="#deleteStopButtonPushed" style="-fx-background-color: #ff0606;" text="-" textFill="WHITE" />
+      <Label layoutX="420.0" layoutY="155.0" prefHeight="17.0" prefWidth="125.0" text="ADD STOP:" />
+      <AutoCompleteTextField fx:id="new_station_name" layoutX="420.0" layoutY="187.0" promptText="Station name" />
+      <Button fx:id="goBackButton" layoutX="14.0" layoutY="363.0" mnemonicParsing="false" onAction="#goBackButtonPushed" text="GO BACK" />
+      <TextField fx:id="idTextField" layoutX="411.0" layoutY="25.0" prefHeight="25.0" prefWidth="115.0" promptText="CONNECTION ID" />
+      <Label fx:id="succesLabel" layoutX="420.0" layoutY="107.0" prefHeight="25.0" prefWidth="99.0" text="SUCCES!" textFill="#348b28" />
+   </children>
+</AnchorPane>

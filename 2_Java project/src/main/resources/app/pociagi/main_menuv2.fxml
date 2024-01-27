@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<?import app.pociagi.utils.AutoCompleteTextField?>
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.pociagi.controllers.MenuController">
+   <children>
+      <AnchorPane prefHeight="145.0" prefWidth="600.0" style="-fx-background-color: D3D3D3;">
+         <children>
+            <Label fx:id="helloLabel" layoutX="23.0" layoutY="21.0" prefHeight="103.0" prefWidth="193.0" text="HELLO!">
+               <font>
+                  <Font name="System Bold Italic" size="25.0" />
+               </font>
+            </Label>
+            <Button fx:id="logInButton" layoutX="447.0" layoutY="14.0" mnemonicParsing="false" onAction="#logInButtonPushed" prefHeight="31.0" prefWidth="117.0" style="-fx-background-color: #0096FF;" text="LOG IN" textFill="WHITE" />
+            <Button fx:id="myAccountButton" layoutX="447.0" layoutY="57.0" mnemonicParsing="false" onAction="#myAccountButtonPushed" prefHeight="31.0" prefWidth="117.0" style="-fx-background-color: #0096FF;" text="MY ACCOUNT" textFill="WHITE" />
+            <Button fx:id="adminPanelButton" layoutX="447.0" layoutY="99.0" mnemonicParsing="false" onAction="#adminPanelButtonPushed" prefHeight="31.0" prefWidth="117.0" style="-fx-background-color: #0096FF;" text="ADMIN PANEL" textFill="WHITE" />
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="254.0" prefWidth="600.0" style="-fx-background-color: D3D3D3;">
+         <children>
+            <Label layoutX="47.0" layoutY="58.0" prefHeight="46.0" prefWidth="86.0" text="Source:">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label layoutX="47.0" layoutY="119.0" prefHeight="46.0" prefWidth="86.0" text="Destination:">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <AutoCompleteTextField fx:id="fromWhereTextField" layoutX="217.0" layoutY="68.0" prefHeight="25.0" prefWidth="225.0" promptText="from where?" />
+            <AutoCompleteTextField fx:id="toWhereTextField" layoutX="217.0" layoutY="129.0" prefHeight="25.0" prefWidth="225.0" promptText="where?" />
+            <Button fx:id="findConnectionButton" layoutX="210.0" layoutY="180.0" mnemonicParsing="false" onAction="#findConnectionButtonPushed" prefHeight="46.0" prefWidth="239.0" style="-fx-background-color: #0096FF;" text="FIND CONNECTION" textFill="WHITE" />
+            <DatePicker fx:id="datePicker" layoutX="275.0" layoutY="23.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

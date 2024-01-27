@@ -1,0 +1,91 @@
+
+Simulation starting
+-------------------------------------------------
+
+How long do you want the simulation to take? Type 1, 3, 6, 9 for number of days
+Your choice: 
+TODAY DATE: 01.05.2022
+
+Honorata WYSOCKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Sydonia NOWAKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ewaryst KOŁODZIEJ buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Augustyna KOZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Urszula WRÓBEL buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Rudolfina MRÓZ buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Mieczysława BOROWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Zenobiusz ZAWADZKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Amanda KACZMAREK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Filip KACZMARCZYK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Angelina BORKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Witołd GÓRECKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dalgur TOMASZEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Zachariasz MAZUR buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Andrea GRABOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Polmira WOJCIECHOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Witosław ZIÓŁKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Laurencja JASIŃSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Rebeka BARAN buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dominik ZAJĄC buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Grażyna WYSOCKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Barnaba MACIEJEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Kamira BOROWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Agnieszka SOKOŁOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ernest BOROWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Barabasz SZCZEPANIAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Flora KOZŁOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Aneta SZULC buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Kilian PAWLAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Fryc PAWŁOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Cichosław LASKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Maksyma MALINOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Fabiana WALCZAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Łukasz GÓRSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Dajana SZULC buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Orian KUBIAK buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Miroda NOWAKOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Ciechosław MACIEJEWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Edgar BORKOWSKA buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Leo BARANOWSKI buys ticket for flight with id: 1 from Wroclaw to Warszawa.
+Aldona ZIELIŃSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Fera BARANOWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Emil SIKORSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Celestyn GÓRSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Anita BĄK buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Radogost LIS buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Celestyn OLSZEWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Gwalbert TOMASZEWSKA buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Arnolda STĘPIEŃ buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Patrycjusz LIS buys ticket for flight with id: 2 from Gdansk to Warszawa.
+Orian MALINOWSKI buys ticket for flight with id: 2 from Gdansk to Warszawa.
+
+
+Witosław ZIÓŁKOWSKA changed from second class to first class.
+Anita BĄK changed from second class to first class.
+
+
+
+Flights this day: 
+Plane FR123 took of from Wroclaw to Warszawa
+Capacity: 40 / 90
+Base price of this flight: 305,00 zl
+First Class price of this flight: 381,25 zl
+
+Workers on this flight:
+Stweardesses: Eunika SIKORSKA, Leo BARANOWSKI, Hubert KOŁODZIEJ, Wrocisław NOWAK, 
+Luggage men: Wit PAWŁOWSKI, 
+Pilots: Linda BŁASZCZYK, 
+Other: 
+
+Plane DA123 took of from Gdansk to Warszawa
+Capacity: 11 / 20
+Base price of this flight: 278,00 zl
+First Class price of this flight: 347,50 zl
+
+Workers on this flight:
+Stweardesses: Hipolit MARCINIAK, 
+Luggage men: 
+Pilots: Bożenna SZYMCZAK, Lenart PRZYBYLSKA, 
+Other: 
+
+
+------------- END OF THE DAY ---------------

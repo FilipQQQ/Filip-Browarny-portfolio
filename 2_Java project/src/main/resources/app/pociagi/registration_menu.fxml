@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.pociagi.controllers.RegistrationMenuController">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="197.0" style="-fx-background-color: #808080;">
+         <children>
+            <Label layoutX="25.0" layoutY="37.0" prefHeight="50.0" prefWidth="147.0" text="Create free account!" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Javanese Text" size="16.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="400.0" prefWidth="406.0" style="-fx-background-color: #808080;">
+         <children>
+            <Label layoutX="14.0" layoutY="179.0" prefHeight="25.0" prefWidth="79.0" text="Email" textFill="WHITE">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="143.0" prefHeight="30.0" prefWidth="79.0" text="Surname" textFill="WHITE">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="79.0" text="Name" textFill="WHITE">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="78.0" prefHeight="25.0" prefWidth="79.0" text="Login" textFill="WHITE" textOverrun="WORD_ELLIPSIS">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="216.0" prefHeight="25.0" prefWidth="79.0" text="Password" textFill="WHITE">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <TextField fx:id="loginField" layoutX="122.0" layoutY="78.0" prefHeight="25.0" prefWidth="224.0" />
+            <TextField fx:id="nameField" layoutX="122.0" layoutY="111.0" prefHeight="25.0" prefWidth="224.0" />
+            <TextField fx:id="surnameField" layoutX="122.0" layoutY="145.0" prefHeight="25.0" prefWidth="224.0" />
+            <TextField fx:id="emailField" layoutX="122.0" layoutY="179.0" prefHeight="25.0" prefWidth="224.0" />
+            <PasswordField fx:id="passwordFirstField" layoutX="122.0" layoutY="216.0" prefHeight="25.0" prefWidth="224.0" />
+            <PasswordField fx:id="passwordSecondField" layoutX="122.0" layoutY="250.0" prefHeight="25.0" prefWidth="224.0" />
+            <Label layoutX="14.0" layoutY="250.0" prefHeight="25.0" prefWidth="79.0" text="Password" textFill="WHITE">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Button fx:id="createAccountButton" layoutX="248.0" layoutY="310.0" mnemonicParsing="false" onAction="#createAccountButtonPushed" prefHeight="30.0" prefWidth="138.0" style="-fx-background-color: #0096FF;" text="CREATE ACCOUNT" textFill="WHITE">
+               <font>
+                  <Font name="Leelawadee Bold" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="goBackButton" layoutX="22.0" layoutY="312.0" mnemonicParsing="false" onAction="#goBackButtonPushed" prefHeight="25.0" prefWidth="63.0" text="Go back" />
+            <Label fx:id="errorLoginLabel" layoutX="122.0" layoutY="20.0" prefHeight="39.0" prefWidth="224.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</HBox>

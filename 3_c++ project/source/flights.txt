@@ -1,0 +1,12 @@
+1 1 5 2022 Wroclaw Warszawa FR123 2
+2 1 5 2022 Gdansk Warszawa DA123 0
+3 2 5 2022 Wroclaw Barcelona FD123 3
+4 3 5 2022 Wroclaw Mediolan AS123 1
+5 4 5 2022 Wroclaw Kopenhaga QQ123 2
+6 4 5 2022 Wroclaw Gdansk PO123 1
+7 4 5 2022 Barcelona Warszawa QQ123 0
+8 5 5 2022 Londyn Krakow MN123 2
+9 6 5 2022 Wroclaw Warszawa KK123 2
+10 7 5 2022 Kopenhaga Warszawa JD123 3
+11 8 5 2022 Mediolan Warszawa F2137 0
+12 9 5 2022 Krakow Londyn KK123 1

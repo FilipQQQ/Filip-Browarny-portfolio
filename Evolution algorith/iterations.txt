@@ -1,0 +1,46 @@
+Best individual so far: 1238197
+0
+Best individual so far: 4301.0
+50
+Mutation percent was decreased: 9
+Best individual so far: 1123.0
+100
+Mutation percent was decreased: 8
+Best individual so far: 873
+150
+Mutation percent was decreased: 7
+Best individual so far: 825
+200
+Mutation percent was decreased: 6
+Best individual so far: 781
+250
+Mutation percent was decreased: 5
+Best individual so far: 739
+300
+Mutation percent was decreased: 4
+Best individual so far: 706
+350
+Best individual so far: 691
+400
+Best individual so far: 674
+450
+Best individual so far: 669
+500
+Best individual so far: 658
+550
+Best individual so far: 657
+600
+Best individual so far: 649
+650
+Best individual so far: 644
+700
+Best individual so far: 643
+750
+Best individual so far: 638
+800
+Best individual so far: 634
+850
+Best individual so far: 634
+900
+Best individual so far: 633
+950

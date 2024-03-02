@@ -15,6 +15,7 @@ Some of them have youtube video showcasing the functionality of the project.
 - **Date:** January 2023
 - **Description:** Railway Connection Management Application
 - **Technologies Used:** Java, JavaFX, JDBC, SQL, PL/SQL
+- **Video:** https://www.youtube.com/watch?v=pQpU44yTunA
 
 ## Project 3: 3_c++_project
 
